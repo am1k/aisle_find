@@ -223,6 +223,7 @@ ul.list img {
     overflow: hidden;
     position: relative;
     height: 197px;
+    width: 210px;
 }
 .country-search-select-more h3 {
     margin-bottom: 5px;
@@ -232,7 +233,7 @@ ul.list img {
 }
 .button-less {
     float: right;
-    padding-right: 11px;
+    padding-right: 8px;
     width: 55px;
     padding-bottom: 10px;
 }
