@@ -688,6 +688,7 @@ ul.list img {
     }
     .search-box ul {
         position: relative;
+        margin: 0 auto;
     }
     #content {
         width: 100%;
@@ -717,5 +718,14 @@ ul.list img {
     .title-result .customSelect {
         float: none;
         padding-top: 0;
+    }
+    .search-section-item-selected {
+        margin: 7px auto;
+    }
+    .country-search-select-more ul {
+        margin: 0 auto;
+    }
+    .country-search-select-more h3 {
+        text-align: center;
     }
 }
