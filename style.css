@@ -470,6 +470,7 @@ ul.list img {
 .button-more p {
     padding-right: 5px;
     float: left;
+    color: #666;
 }
 #content {
     overflow: hidden;
@@ -780,6 +781,7 @@ ul.list img {
     line-height: normal;
     display: inline-block;
     position: relative;
+    margin-top: 22px;
 }
 .page li {
     float: left;
@@ -787,7 +789,6 @@ ul.list img {
     border: 1px solid #bfbfbf;
     margin-left: 5px;
     border-radius: 3px;
-    margin-top: 22px;
 }
 .page li:first-child,
 .page li:hover:first-child
@@ -804,7 +805,6 @@ ul.list img {
     border: 1px solid #2475ad;
     margin-left: 5px;
     border-radius: 3px;
-    margin-top: 22px;
 }
 .page li:hover a {
     width: 100%;
